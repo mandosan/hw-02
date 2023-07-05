@@ -1,4 +1,4 @@
-<?
+<?php
 
 function getPartsFromFullname($fullName){
     $exploted = explode(" ",$fullName);
